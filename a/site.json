@@ -1,0 +1,40 @@
+{
+  "business": {
+    "name": "AB PLOMBERIE",
+    "category": "Plombier Caen",
+    "address": "3 Rue de la Liberté ZA, 14740 Thue et Mue, France",
+    "phone": "02 31 39 85 89",
+    "rating": 5,
+    "reviews": 36
+  },
+  "content": {
+    "headline": "Votre plombier de confiance à Caen",
+    "subline": "Dépannage, installation et rénovation. Intervention rapide, travail soigné et devis clair sur toute l'agglomération caennaise.",
+    "services": [
+      "Dépannage fuite d'eau",
+      "Débouchage canalisation",
+      "Installation sanitaire",
+      "Remplacement chauffe-eau",
+      "Rénovation salle de bain",
+      "Recherche de fuite"
+    ],
+    "about": "AB Plomberie est votre artisan plombier de proximité à Caen et ses environs. Fort d'un savoir-faire reconnu et d'une note de 5,0 étoiles saluée par nos clients, nous intervenons avec rigueur et transparence sur tous vos travaux de plomberie. De la petite réparation au projet complet, nous mettons un point d'honneur à livrer un travail soigné et durable."
+  },
+  "images": {
+    "about": "assets/intervention.webp",
+    "hero": "assets/artisan.webp",
+    "map": "assets/map.webp"
+  },
+  "map": {
+    "center": {
+      "lat": 49.206156799999995,
+      "lng": -0.516837
+    },
+    "city": "Thue et Mue",
+    "label": "Thue et Mue · secteur d'intervention",
+    "padding": 1.4,
+    "provider": "openstreetmap",
+    "radiusKm": 20,
+    "title": "Carte OpenStreetMap de Thue et Mue et son secteur"
+  }
+}
